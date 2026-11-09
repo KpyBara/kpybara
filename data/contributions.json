@@ -1,6 +1,6 @@
 {
   "username": "KpyBara",
-  "updated_at": "2026-11-08T03:55:41.630826+00:00",
+  "updated_at": "2026-11-09T04:10:57.135213+00:00",
   "statistics": {
     "total_level": 18,
     "active_days": 5,
@@ -425,6 +425,10 @@
     },
     {
       "date": "2026-11-02",
+      "level": 0
+    },
+    {
+      "date": "2026-11-09",
       "level": 0
     },
     {
